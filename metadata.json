@@ -1,0 +1,7 @@
+{
+  "name": "SaúdePronta - Orientação Inteligente",
+  "description": "Uma plataforma SaaS de pré-triagem e orientação de saúde moderna, focada em suporte pré-hospitalar e interpretação de exames.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
